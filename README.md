@@ -83,15 +83,15 @@ public void setBrand(String brand);
 MORE:
 
 
-5. Cosntructor
+7. Cosntructor
 
 Method first time called when class has instantied.
 
-6. Overriding and Overloading
+8. Overriding and Overloading
 
-a. Overriding : Same method in class and extends class
+	a. Overriding : Same method in class and extends class
 
-b. Overloading : Same method different parameters
+	b. Overloading : Same method different parameters
 
 
 
